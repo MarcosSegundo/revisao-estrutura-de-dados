@@ -1,6 +1,6 @@
 package com.segundo.queue;
 
-import com.segundo.stack.Node;
+import com.segundo.node.Node;
 
 public class Queue<T> {
     private Node<T> lastNode;

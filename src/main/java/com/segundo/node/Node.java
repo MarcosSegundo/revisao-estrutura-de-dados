@@ -1,4 +1,4 @@
-package com.segundo.stack;
+package com.segundo.node;
 
 public class Node<T> {
     private T content;

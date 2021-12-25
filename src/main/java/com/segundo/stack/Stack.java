@@ -1,5 +1,7 @@
 package com.segundo.stack;
 
+import com.segundo.node.Node;
+
 public class Stack<T> {
     private Node<T> top;
 
